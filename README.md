@@ -11,7 +11,7 @@
   <table>
     <tr>
       <td>
-        <img  height="100" width="120" src="https://s2.glbimg.com/0RxBcYVQ59mc2Z6rYRwrjVoPMTI=/e.glbimg.com/og/ed/f/original/2015/02/10/041_aa350337.jpg">
+        <img  height="100" width="130" src="https://s2.glbimg.com/0RxBcYVQ59mc2Z6rYRwrjVoPMTI=/e.glbimg.com/og/ed/f/original/2015/02/10/041_aa350337.jpg">
       </td>
       <td>
         Alan turing.<br>
@@ -19,7 +19,7 @@
         “I believe that it is the people no one expects anything from, that do the things that no one could imagine.”
       </td>
       <td>
-        <img  height="100" width="120" src="https://blogdaengenharia.com/wp-content/uploads/grace-hopper-blog-da-engenharia-4.jpg">
+        <img  height="100" width="130" src="https://blogdaengenharia.com/wp-content/uploads/grace-hopper-blog-da-engenharia-4.jpg">
       </td>
       <td>
         Grace Hopper.<br>
